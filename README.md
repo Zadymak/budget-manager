@@ -1,7 +1,7 @@
 # budget-manager
 Projekt na zajęcia z programowania obiektowego
 
-#Wymagania funkcjonalne
+# Wymagania funkcjonalne
 -Rejestracja i logowanie użytkownika
 -Zarządzanie profilem użytkownika(edycja danych: imię, nazwisko, waluta, miesięczny limit budżetu)
 -Dodawanie i edycja transakcji
