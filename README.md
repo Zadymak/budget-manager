@@ -9,3 +9,4 @@ Projekt na zajęcia z programowania obiektowego
 -Konta / portfele(np. gotówka, karta X, konto oszczędnościowe saldo konta (równanie sald po transakcjach)) <br>
 -Budżety i limity <br>
 -Raporty i podsumowania(miesięczne i roczne raporty: suma wydatków/przychodów, saldo, prosty wykres danych (dane przygotowane do wyświetlenia)) <br>
+ 
