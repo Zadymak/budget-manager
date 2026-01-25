@@ -13,5 +13,20 @@ Projekt na zajęcia z programowania obiektowego
 - Możliwość wyświetlania podsumowania miesięcznego
   - Podsumowanie zawiera sumę przychodów, sumę wydatków oraz saldo i listę transakcji z wybranego miesiąca.
 
- 
+ ## Wymagania- JDK17+
+- Maven3.8+ w `PATH`
+- Git## Klonowanie```bashgit clone https://github.com/Zadymak/bugdet_app.gitcd bugdet_app```
+
+## Budowanie```bashmvn clean package```
+
+## Uruchomienie (dev)
+```bashmvn spring-boot:run```
+
+## Dostęp- Aplikacja: http://localhost:8080/
+- Pierwsza wizyta przekierowuje na `/setup` (utworzenie konta: nazwa użytkownika, początkowe saldo, waluta bazowa).
+
+## Generowanie JavaDoc (opcjonalnie)
+```bashmvn javadoc:javadoc```
+
+## Stos technologiczny- Java17, Spring Boot3.x- Maven, Thymeleaf, Spring Data JPA- H2 (uruchomieniowa)
  
